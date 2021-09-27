@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Smart Home Part One</string>
+    <string name="bttn1">DEMO</string>
+    <string name="practice">PRACTICE</string>
+    <string name="replay">REPLAY</string>
+    <string name="record">RECORD</string>
+    <string name="upload">UPLOAD</string>
+    <string name="restart">RESTART</string>
+    <string-array name="spinner1">
+        <item><i>Select A Gesture</i></item>
+        <item><b>Turn on Lights</b></item>
+        <item><b>Turn off Lights</b></item>
+        <item><b>Turn on Fan</b></item>
+        <item><b>Turn off Fan</b></item>
+        <item><b>Increase Fan Speed</b></item>
+        <item><b>Decrease Fan Speed</b></item>
+        <item><b>Set Thermostat to Specified Temperature</b></item>
+        <item><b>0</b></item>
+        <item><b>1</b></item>
+        <item><b>2</b></item>
+        <item><b>3</b></item>
+        <item><b>4</b></item>
+        <item><b>5</b></item>
+        <item><b>6</b></item>
+        <item><b>7</b></item>
+        <item><b>8</b></item>
+        <item><b>9</b></item>
+    </string-array>
+</resources>
